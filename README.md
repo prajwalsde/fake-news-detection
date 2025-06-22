@@ -1,5 +1,7 @@
 # Fake News Detection using Machine Learning
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Detect whether a news article is fake or real using NLP and ML.
 
 ## Tech Stack
