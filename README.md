@@ -1,6 +1,11 @@
 # Fake News Detection using Machine Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange)
+![Platform](https://img.shields.io/badge/Platform-MacOS%20%7C%20Linux%20%7C%20Windows-informational)
+![GitHub Repo stars](https://img.shields.io/github/stars/prajwalsde/fake-news-detection?style=social)
+![GitHub forks](https://img.shields.io/github/forks/prajwalsde/fake-news-detection?style=social)
 
 Detect whether a news article is fake or real using NLP and ML.
 
